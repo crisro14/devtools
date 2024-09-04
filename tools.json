@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "titulo": "React Documentation",
+        "descripcion": "La documentación oficial de React.",
+        "foto": "https://reactjs.org/logo-og.png",
+        "tags": [
+            "React",
+            "JavaScript"
+        ],
+        "categoria": "Librerías",
+        "link": "https://reactjs.org/docs/getting-started.html"
+    },
+    {
+        "id": 2,
+        "titulo": "TailwindCSS",
+        "descripcion": "Framework de CSS para diseño rápido.",
+        "foto": "https://tailwindcss.com/_next/static/media/tailwindcss-mark.a5ef897e8c79b9b12cf15a08b679ebf4.svg",
+        "tags": [
+            "CSS",
+            "Tailwind"
+        ],
+        "categoria": "Librerías",
+        "link": "https://tailwindcss.com/"
+    },
+    {
+        "id": 3,
+        "titulo": "MDN Web Docs",
+        "descripcion": "Recursos y documentación sobre tecnologías web.",
+        "foto": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "categoria": "Blogs",
+        "link": "https://developer.mozilla.org/"
+    },
+    {
+        "id": 4,
+        "titulo": "GitHub",
+        "descripcion": "Plataforma para alojamiento de código y control de versiones.",
+        "foto": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "tags": [
+            "Git",
+            "Version Control"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://github.com/"
+    },
+    {
+        "id": 5,
+        "titulo": "Postman",
+        "descripcion": "Herramienta para probar APIs.",
+        "foto": "https://www.postman.com/assets/logos/postman-logo-stacked.svg",
+        "tags": [
+            "API",
+            "Testing"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://www.postman.com/"
+    },
+    {
+        "id": 6,
+        "titulo": "Font Awesome",
+        "descripcion": "Iconos vectoriales gratuitos y de pago.",
+        "foto": "https://fontawesome.com/icons/font-awesome?style=brands",
+        "tags": [
+            "Iconos",
+            "UI"
+        ],
+        "categoria": "Iconos",
+        "link": "https://fontawesome.com/"
+    },
+    {
+        "id": 7,
+        "titulo": "Three.js",
+        "descripcion": "Biblioteca JavaScript para crear gráficos 3D.",
+        "foto": "https://threejs.org/examples/images/threejs-logo.png",
+        "tags": [
+            "3D",
+            "JavaScript"
+        ],
+        "categoria": "3D",
+        "link": "https://threejs.org/"
+    },
+    {
+        "id": 8,
+        "titulo": "Unsplash",
+        "descripcion": "Fotos de alta resolución gratuitas.",
+        "foto": "https://unsplash.com/photos/3I4oQipkVzg/download",
+        "tags": [
+            "Fotos",
+            "Imágenes"
+        ],
+        "categoria": "Fotos",
+        "link": "https://unsplash.com/"
+    },
+    {
+        "id": 9,
+        "titulo": "Dribbble",
+        "descripcion": "Inspiración y recursos para diseñadores.",
+        "foto": "https://cdn.dribbble.com/users/8439/screenshots/3069499/dribbble_screenshot.jpg",
+        "tags": [
+            "Diseño",
+            "Inspiración"
+        ],
+        "categoria": "Inspiración",
+        "link": "https://dribbble.com/"
+    },
+    {
+        "id": 10,
+        "titulo": "Color Hunt",
+        "descripcion": "Colección de paletas de colores.",
+        "foto": "https://colorhunt.co/static/colorhunt-logo.png",
+        "tags": [
+            "Colores",
+            "Diseño"
+        ],
+        "categoria": "Colores",
+        "link": "https://colorhunt.co/"
+    }
+]
