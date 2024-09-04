@@ -32,63 +32,55 @@
     },
     {
         "id": 4,
-        "titulo": "GitHub",
+        "titulo": "Tabler Icons",
         "descripcion": "Plataforma para alojamiento de código y control de versiones.",
-        "foto": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/tabler",
         "tags": [
-            "Git",
-            "Version Control"
         ],
-        "categoria": "Herramientas",
-        "link": "https://github.com/"
+        "categoria": "Iconos",
+        "link": "https://tabler.io/icons"
     },
     {
         "id": 5,
-        "titulo": "Postman",
+        "titulo": "SVG Repo",
         "descripcion": "Herramienta para probar APIs.",
-        "foto": "https://www.postman.com/assets/logos/postman-logo-stacked.svg",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/svgrepo",
         "tags": [
-            "API",
-            "Testing"
         ],
         "categoria": "Herramientas",
-        "link": "https://www.postman.com/"
+        "link": "https://www.svgrepo.com/"
     },
     {
         "id": 6,
-        "titulo": "Font Awesome",
-        "descripcion": "Iconos vectoriales gratuitos y de pago.",
-        "foto": "https://fontawesome.com/icons/font-awesome?style=brands",
+        "titulo": "Reshot",
+        "descripcion": "SVG iconos gratis",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704381958/freesets/icons/eum2c2gjrwgwfv7aq3qm.webp",
         "tags": [
             "Iconos",
             "UI"
         ],
         "categoria": "Iconos",
-        "link": "https://fontawesome.com/"
+        "link": "https://www.reshot.com/free-svg-icons/"
     },
     {
         "id": 7,
-        "titulo": "Three.js",
+        "titulo": "Radix Icons",
         "descripcion": "Biblioteca JavaScript para crear gráficos 3D.",
-        "foto": "https://threejs.org/examples/images/threejs-logo.png",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705772255/freesets/icons/mzzgjxfoem5kafvfyyhh.webp",
         "tags": [
-            "3D",
-            "JavaScript"
         ],
-        "categoria": "3D",
-        "link": "https://threejs.org/"
+        "categoria": "Iconos",
+        "link": "https://www.radix-ui.com/icons"
     },
     {
         "id": 8,
-        "titulo": "Unsplash",
+        "titulo": "Iconoir",
         "descripcion": "Fotos de alta resolución gratuitas.",
-        "foto": "https://unsplash.com/photos/3I4oQipkVzg/download",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705777316/freesets/icons/ruzpsrpudbcvjvqtcv4j.webp",
         "tags": [
-            "Fotos",
-            "Imágenes"
         ],
-        "categoria": "Fotos",
-        "link": "https://unsplash.com/"
+        "categoria": "Iconos",
+        "link": "https://iconoir.com/"
     },
     {
         "id": 9,
