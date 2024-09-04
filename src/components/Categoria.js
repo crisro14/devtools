@@ -7,7 +7,7 @@ function Categoria() {
 
   useEffect(() => {
     // Fetch del JSON
-    fetch('https://raw.githubusercontent.com/crisro14/my-devtools/master/tools.json')
+    fetch('https://raw.githubusercontent.com/crisro14/devtools/master/tools.json')
       .then(response => response.json())
       .then(data => {
         console.log(data); // Verifica si se están obteniendo los datos
