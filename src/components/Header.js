@@ -18,8 +18,8 @@ const Header = () => {
   return (
     <nav className="bg-gray-800 p-4">
       <div className="container mx-auto flex flex-wrap items-center justify-between">
-        {/* Logo or Title */}
-        <div className="text-white text-2xl font-bold">Mi App</div>
+        {/* Logo o Título */}
+        <div className="text-white text-2xl font-bold">Mis herramientas</div>
 
         {/* Navbar */}
         <div className="w-full block lg:flex lg:items-center lg:justify-between">

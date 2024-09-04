@@ -11,28 +11,24 @@
     },
     {
         "id": 2,
-        "titulo": "TailwindCSS",
-        "descripcion": "Framework de CSS para diseño rápido.",
-        "foto": "https://tailwindcss.com/_next/static/media/tailwindcss-mark.a5ef897e8c79b9b12cf15a08b679ebf4.svg",
+        "titulo": "Google Icons",
+        "descripcion": ".",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/google",
         "tags": [
-            "CSS",
-            "Tailwind"
         ],
-        "categoria": "Librerías",
-        "link": "https://tailwindcss.com/"
+        "categoria": "Iconos",
+        "link": "https://fonts.google.com/icons"
     },
     {
         "id": 3,
-        "titulo": "MDN Web Docs",
+        "titulo": "Simple Icons",
         "descripcion": "Recursos y documentación sobre tecnologías web.",
-        "foto": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705765217/freesets/icons/jvhe6jrpy38zrqi6dhvp.webp",
         "tags": [
-            "HTML",
-            "CSS",
-            "JavaScript"
+            "Brands"
         ],
-        "categoria": "Blogs",
-        "link": "https://developer.mozilla.org/"
+        "categoria": "Iconos",
+        "link": "https://simpleicons.org/"
     },
     {
         "id": 4,

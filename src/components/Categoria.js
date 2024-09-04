@@ -32,7 +32,7 @@ function Categoria() {
               <h2 className="card-title">{tool.titulo}</h2>
               <p>{tool.descripcion}</p>
               <div className="card-actions">
-                <a href={tool.link} className="btn btn-primary">Visitar</a>
+                <a href={tool.link} target="_blank" rel="noopener noreferrer" className="btn btn-primary">Visitar</a>
               </div>
             </div>
           </div>
