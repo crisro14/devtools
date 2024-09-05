@@ -16,10 +16,10 @@ import {
 
 const Header = () => {
   return (
-    <nav className="bg-gray-800 p-4">
+    <nav className="bg-gray-800 p-4 header-fixed">
       <div className="container mx-auto flex flex-wrap items-center justify-between">
         {/* Logo o Título */}
-        <div className="text-white text-2xl font-bold text-center items-center">Mis herramientas</div>
+        <div className="hidden text-white text-2xl font-bold text-center items-center">Mis herramientas</div>
 
         {/* Navbar */}
         <div className="w-full block lg:flex lg:items-center lg:justify-between">

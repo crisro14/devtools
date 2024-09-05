@@ -2,7 +2,7 @@
     {
         "id": 1,
         "titulo": "Iconify",
-        "descripcion": "lala",
+        "descripcion": "Amplia colección de iconos en diferentes formatos, ideales para integrarse en tus proyectos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/iconify",
         "tags": [],
         "categoria": "Iconos",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "titulo": "Google Icons",
-        "descripcion": ".",
+        "descripcion": "Biblioteca de iconos gratuitos proporcionada por Google, con una variedad de estilos y diseños.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/google",
         "tags": [],
         "categoria": "Iconos",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "titulo": "Simple Icons",
-        "descripcion": "Recursos y documentación sobre tecnologías web.",
+        "descripcion": "Recurso que proporciona iconos de marcas populares en formato SVG, útiles para tus proyectos web.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705765217/freesets/icons/jvhe6jrpy38zrqi6dhvp.webp",
         "tags": [
             "Brands"
@@ -31,7 +31,7 @@
     {
         "id": 4,
         "titulo": "Tabler Icons",
-        "descripcion": "Plataforma para alojamiento de código y control de versiones.",
+        "descripcion": "Colección de iconos de diseño limpio y moderno para aplicaciones web y móviles.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/tabler",
         "tags": [],
         "categoria": "Iconos",
@@ -40,7 +40,7 @@
     {
         "id": 5,
         "titulo": "SVG Repo",
-        "descripcion": "Herramienta para probar APIs.",
+        "descripcion": "Base de datos de iconos SVG gratuitos, que incluye una amplia variedad de estilos y categorías.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/svgrepo",
         "tags": [],
         "categoria": "Iconos",
@@ -49,7 +49,7 @@
     {
         "id": 6,
         "titulo": "Reshot",
-        "descripcion": "SVG iconos gratis",
+        "descripcion": "Biblioteca de iconos SVG gratuitos para proyectos web, con una gran selección y variedad.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704381958/freesets/icons/eum2c2gjrwgwfv7aq3qm.webp",
         "tags": [
             "Iconos",
@@ -61,7 +61,7 @@
     {
         "id": 7,
         "titulo": "Radix Icons",
-        "descripcion": "Biblioteca JavaScript para crear gráficos 3D.",
+        "descripcion": "Colección de iconos de diseño simple y accesible, ideal para aplicaciones modernas.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705772255/freesets/icons/mzzgjxfoem5kafvfyyhh.webp",
         "tags": [],
         "categoria": "Iconos",
@@ -70,7 +70,7 @@
     {
         "id": 8,
         "titulo": "Iconoir",
-        "descripcion": "Fotos de alta resolución gratuitas.",
+        "descripcion": "Biblioteca de iconos en estilo lineal y moderno, ideales para interfaces de usuario.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705777316/freesets/icons/ruzpsrpudbcvjvqtcv4j.webp",
         "tags": [],
         "categoria": "Iconos",
@@ -79,7 +79,7 @@
     {
         "id": 9,
         "titulo": "Poly Haven",
-        "descripcion": "3d",
+        "descripcion": "Recursos de 3D gratuitos, incluyendo HDRIs, texturas y modelos, para tus proyectos de renderizado.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/polyhaven",
         "tags": [
             "HDRIs",
@@ -92,7 +92,7 @@
     {
         "id": 10,
         "titulo": "Matter.js",
-        "descripcion": "Motor de física en 2D escrito en JavaScript.",
+        "descripcion": "Motor de física en 2D para JavaScript, ideal para crear simulaciones físicas en aplicaciones web.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703714061/freesets/libraries/umlx1hgt8bjycqzwpqqj.webp",
         "tags": [
             "Physics"
@@ -103,27 +103,16 @@
     {
         "id": 11,
         "titulo": "React Magic Motion",
-        "descripcion": "Librería de animaciones para React.",
+        "descripcion": "Biblioteca de animaciones para React que facilita la creación de efectos visuales fluidos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-magic-motion",
         "tags": [],
         "categoria": "Librerias",
         "link": "https://www.react-magic-motion.com"
     },
     {
-        "id": 12,
-        "titulo": "Matter.js",
-        "descripcion": "Motor de física en 2D escrito en JavaScript.",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703714061/freesets/libraries/umlx1hgt8bjycqzwpqqj.webp",
-        "tags": [
-            "Physics"
-        ],
-        "categoria": "Librerias",
-        "link": "https://brm.io/matter-js/"
-    },
-    {
         "id": 13,
         "titulo": "react-magic-motion",
-        "descripcion": "Biblioteca de animación para React.",
+        "descripcion": "Biblioteca para crear animaciones en React, ofreciendo una amplia gama de efectos y transiciones.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-magic-motion",
         "tags": [
             "Animation",
@@ -135,7 +124,7 @@
     {
         "id": 14,
         "titulo": "useHooks",
-        "descripcion": "Colección de custom hooks para React.",
+        "descripcion": "Colección de hooks personalizados para React, diseñada para facilitar tareas comunes en el desarrollo.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703461359/freesets/libraries/cnxclmmyt8gkenlzjhsw.webp",
         "tags": [
             "Hooks"
@@ -146,7 +135,7 @@
     {
         "id": 15,
         "titulo": "AutoAnimate",
-        "descripcion": "Pequeña biblioteca para animaciones automáticas en tu sitio web.",
+        "descripcion": "Pequeña biblioteca para animaciones automáticas que facilita la implementación de efectos dinámicos en tu sitio web.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722122/freesets/libraries/x1cx4uqv29hd6ylowwcv.webp",
         "tags": [
             "Animations"
@@ -157,7 +146,7 @@
     {
         "id": 16,
         "titulo": "Mousetrap",
-        "descripcion": "Librería de JavaScript para manejar atajos de teclado en el navegador.",
+        "descripcion": "Librería JavaScript para gestionar atajos de teclado en aplicaciones web, mejorando la experiencia del usuario.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707069869/freesets/libraries/b4uluaeygy8jpnk2flzs.webp",
         "tags": [
             "Keyboard shortcuts"
@@ -168,7 +157,7 @@
     {
         "id": 17,
         "titulo": "Luxon",
-        "descripcion": "Biblioteca de JavaScript para manejar fechas y horas.",
+        "descripcion": "Biblioteca JavaScript para manejar fechas y horas con soporte para zonas horarias y formatos complejos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703714373/freesets/libraries/zzq11qc4dh3byrn2g1o1.webp",
         "tags": [
             "Time",
@@ -180,7 +169,7 @@
     {
         "id": 18,
         "titulo": "COBE",
-        "descripcion": "Librería para crear globos 3D en WebGL.",
+        "descripcion": "Librería para crear globos 3D interactivos en WebGL, ideal para visualizaciones de datos y representaciones gráficas.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/cobe",
         "tags": [
             "WebGL globe"
@@ -193,7 +182,7 @@
     {
         "id": 19,
         "titulo": "Driver.js",
-        "descripcion": "Librería para guiar el enfoque del usuario en una interfaz.",
+        "descripcion": "Librería para guiar y resaltar el enfoque del usuario en una interfaz web, facilitando la creación de tutoriales y guías interactivas.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/driverjs",
         "tags": [
             "Drive user's focus"
@@ -206,7 +195,7 @@
     {
         "id": 20,
         "titulo": "PDFSlick",
-        "descripcion": "Librería para ver e interactuar con archivos PDF.",
+        "descripcion": "Librería que permite visualizar e interactuar con archivos PDF directamente en el navegador, ofreciendo funcionalidades como navegación por páginas y búsqueda de texto.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/pdfslick",
         "tags": [
             "View and Interact with PDFs"
@@ -219,7 +208,7 @@
     {
         "id": 21,
         "titulo": "Haiku",
-        "descripcion": "Librería de utilidades y hooks para React.",
+        "descripcion": "Conjunto de utilidades y hooks para React que simplifican el desarrollo de aplicaciones, ofreciendo herramientas prácticas para mejorar la productividad.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-haiku",
         "tags": [
             "React",
@@ -234,7 +223,7 @@
     {
         "id": 22,
         "titulo": "GSAP",
-        "descripcion": "Librería para animaciones web.",
+        "descripcion": "Biblioteca potente para crear animaciones web complejas y fluidas, ideal para mejorar la experiencia de usuario con efectos visuales avanzados.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722231/freesets/libraries/y0vnr0nzd18wdbsg1lkz.webp",
         "tags": [
             "Animations"
@@ -246,7 +235,7 @@
     {
         "id": 23,
         "titulo": "Swiper",
-        "descripcion": "Slider moderno y flexible para sitios web.",
+        "descripcion": "Slider moderno y flexible que permite la creación de carruseles y presentaciones de contenido adaptables para diversos dispositivos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/swiperjs",
         "tags": [
             "Sliders"
@@ -257,7 +246,7 @@
     {
         "id": 24,
         "titulo": "tldraw SDK",
-        "descripcion": "SDK para crear un lienzo infinito en aplicaciones web.",
+        "descripcion": "SDK para integrar un lienzo infinito en aplicaciones web, ideal para la creación de diagramas y dibujos colaborativos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tldraw",
         "tags": [
             "Infinite canvas"
@@ -268,7 +257,7 @@
     {
         "id": 25,
         "titulo": "react-spring",
-        "descripcion": "Biblioteca para animaciones en React.",
+        "descripcion": "Biblioteca para gestionar animaciones en React, ofreciendo una API intuitiva para crear animaciones interactivas y suaves.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722374/freesets/libraries/qp1ugsdvlw1umw7ozp7d.webp",
         "tags": [
             "Animations",
@@ -280,7 +269,7 @@
     {
         "id": 26,
         "titulo": "Locomotive Scroll",
-        "descripcion": "Biblioteca para crear efectos de desplazamiento suave en el sitio web.",
+        "descripcion": "Biblioteca que facilita la implementación de efectos de desplazamiento suave y parallax en sitios web, mejorando la experiencia visual.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703460989/freesets/libraries/c624lahc77sg5fgo1eaq.webp",
         "tags": [
             "Scroll"
@@ -291,7 +280,7 @@
     {
         "id": 27,
         "titulo": "Tempo",
-        "descripcion": "Herramienta para trabajar con fechas y tiempos.",
+        "descripcion": "Herramienta para el manejo de fechas y tiempos en aplicaciones web, simplificando la manipulación y formato de datos temporales.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tempo",
         "tags": [
             "Time",
@@ -303,7 +292,7 @@
     {
         "id": 28,
         "titulo": "Vaul",
-        "descripcion": "Biblioteca para crear drawer en React.",
+        "descripcion": "Biblioteca que proporciona un componente de tipo drawer para React, facilitando la implementación de menús laterales deslizables.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703716210/freesets/libraries/xzlo82pgowtivmpjxdlk.webp",
         "tags": [
             "Drawer",
@@ -315,7 +304,7 @@
     {
         "id": 29,
         "titulo": "swup",
-        "descripcion": "Transitions for server-rendered pages",
+        "descripcion": "Biblioteca para gestionar transiciones suaves entre páginas en aplicaciones renderizadas en el servidor, mejorando la experiencia de navegación.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/swup",
         "tags": [
             "Transitions for server-rendered pages"
@@ -326,7 +315,7 @@
     {
         "id": 30,
         "titulo": "Atropos",
-        "descripcion": "Biblioteca para crear efectos de parallax.",
+        "descripcion": "Biblioteca para crear efectos de parallax tridimensionales, añadiendo profundidad y dinamismo a los elementos de una página web.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703715783/freesets/libraries/fnn0q2erzzpqkyhrzckk.webp",
         "tags": [
             "Parallax"
@@ -337,7 +326,7 @@
     {
         "id": 31,
         "titulo": "Tilt",
-        "descripcion": "Parallax",
+        "descripcion": "Librería para aplicar efectos de parallax a elementos HTML, creando una experiencia visual interactiva y atractiva para los usuarios.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tilt",
         "tags": [
             "Parallax"
@@ -348,7 +337,7 @@
     {
         "id": 32,
         "titulo": "Sandpack",
-        "descripcion": "Live coding",
+        "descripcion": "Entorno de codificación en vivo que permite a los desarrolladores escribir y ejecutar código en tiempo real, facilitando la creación de ejemplos y demostraciones interactivas.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721779/freesets/libraries/pd8lyjpwf79zercchctr.webp",
         "tags": [
             "Live coding"
@@ -359,7 +348,7 @@
     {
         "id": 33,
         "titulo": "Framer Motion",
-        "descripcion": "Animations, React",
+        "descripcion": "Biblioteca para crear animaciones en React con una API declarativa, proporcionando una forma sencilla de construir animaciones fluidas y responsivas.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721531/freesets/libraries/mwfnikeq6pgt2y8xeeuu.webp",
         "tags": [
             "Animations",
@@ -371,7 +360,7 @@
     {
         "id": 34,
         "titulo": "Editor.js",
-        "descripcion": "Block-style editor",
+        "descripcion": "Editor de contenido basado en bloques que permite a los usuarios construir y editar documentos de manera modular y flexible.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/editorjs",
         "tags": [
             "Block-style editor"
@@ -382,51 +371,53 @@
     {
         "id": 35,
         "titulo": "RoughNotation",
-        "descripcion": "Annotations",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703716041/freesets/libraries/xywhclwf3zv29jtmppkf.webp",
+        "descripcion": "Librería para agregar anotaciones visuales a documentos HTML, destacando elementos mediante efectos como subrayado y contornos.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/roughnotation",
         "tags": [
             "Annotations"
         ],
         "categoria": "Librerias",
-        "link": "https://roughnotation.com"
+        "link": "https://roughnotation.glitch.me/"
     },
     {
         "id": 36,
-        "titulo": "lightGallery",
-        "descripcion": "Image gallery",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705093204/freesets/libraries/gbvshhwql1vuevniicae.webp",
+        "titulo": "GSAP",
+        "descripcion": "Biblioteca potente para crear animaciones web complejas y fluidas, ideal para mejorar la experiencia de usuario con efectos visuales avanzados.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722374/freesets/libraries/qp1ugsdvlw1umw7ozp7d.webp",
         "tags": [
-            "Image gallery"
+            "Animations"
         ],
-        "categoria": "Herramientas",
-        "link": "https://www.lightgalleryjs.com"
+        "categoria": "Librerias",
+        "link": "https://gsap.com"
     },
     {
         "id": 37,
-        "titulo": "PhotoSwipe",
-        "descripcion": "Image gallery",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705093099/freesets/libraries/p4tly9q7bbbnseutl1al.webp",
+        "titulo": "Three.js",
+        "descripcion": "Biblioteca para la creación de gráficos 3D en la web utilizando WebGL, permitiendo la visualización de modelos tridimensionales y efectos avanzados.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722369/freesets/libraries/threejs",
         "tags": [
-            "Image gallery"
+            "3D",
+            "WebGL"
         ],
-        "categoria": "Herramientas",
-        "link": "https://photoswipe.com"
+        "categoria": "Librerias",
+        "link": "https://threejs.org"
     },
     {
         "id": 38,
-        "titulo": "Plyr",
-        "descripcion": "Media player",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722052/freesets/libraries/vnzjqkvjkko8oynzkvoa.webp",
+        "titulo": "PixiJS",
+        "descripcion": "Librería de gráficos 2D para crear juegos y aplicaciones interactivas en la web, ofreciendo una API rápida y fácil de usar para renderizar gráficos.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722442/freesets/libraries/pixijs",
         "tags": [
-            "Media player"
+            "2D Graphics",
+            "Games"
         ],
         "categoria": "Librerias",
-        "link": "https://plyr.io"
+        "link": "https://pixijs.com"
     },
     {
         "id": 39,
         "titulo": "React Google Maps",
-        "descripcion": "Maps",
+        "descripcion": "Biblioteca para integrar mapas de Google en aplicaciones React, facilitando la visualización y manipulación de mapas en tus proyectos web.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-google-maps",
         "tags": [
             "Maps"
@@ -437,7 +428,7 @@
     {
         "id": 40,
         "titulo": "FilePond",
-        "descripcion": "Uploads",
+        "descripcion": "Librería para manejar la carga de archivos de manera sencilla y elegante, con soporte para múltiples archivos y características avanzadas como la validación y la vista previa.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703715871/freesets/libraries/eadtlmvs1fn45whzka3p.webp",
         "tags": [
             "Uploads"
@@ -448,7 +439,7 @@
     {
         "id": 41,
         "titulo": "React Google Maps",
-        "descripcion": "Maps",
+        "descripcion": "Biblioteca para integrar mapas de Google en aplicaciones React, facilitando la visualización y manipulación de mapas en tus proyectos web.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-google-maps",
         "tags": [
             "Maps"
@@ -459,7 +450,7 @@
     {
         "id": 42,
         "titulo": "FilePond",
-        "descripcion": "Uploads",
+        "descripcion": "Librería para manejar la carga de archivos de manera sencilla y elegante, con soporte para múltiples archivos y características avanzadas como la validación y la vista previa.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703715871/freesets/libraries/eadtlmvs1fn45whzka3p.webp",
         "tags": [
             "Uploads"
@@ -470,7 +461,7 @@
     {
         "id": 43,
         "titulo": "Draggable JS",
-        "descripcion": "Drag and drop",
+        "descripcion": "Librería para implementar funcionalidades de arrastrar y soltar en tus aplicaciones web, ofreciendo una API intuitiva y flexible para manejar la interacción con los elementos arrastrables.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/draggable",
         "tags": [
             "Drag and drop"
@@ -481,7 +472,7 @@
     {
         "id": 44,
         "titulo": "yup",
-        "descripcion": "Form validation",
+        "descripcion": "Librería para validación de esquemas en JavaScript, utilizada para validar y transformar datos de formularios con un enfoque declarativo y sencillo.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721354/freesets/libraries/vf3bljcv8cw7nklk3s1o.webp",
         "tags": [
             "Form validation"
@@ -492,18 +483,18 @@
     {
         "id": 45,
         "titulo": "ipad-cursor",
-        "descripcion": "iPad's mouse effect",
+        "descripcion": "Efecto de cursor para simular el puntero de un iPad en tus proyectos web, ideal para añadir un toque visual único a la experiencia de usuario en dispositivos táctiles.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/cursoroooo",
         "tags": [
             "iPad's mouse effect"
         ],
-        "categoria":"Herramientas",
+        "categoria": "Herramientas",
         "link": "https://cursor.oooo.so/"
     },
     {
         "id": 46,
         "titulo": "Mapbox",
-        "descripcion": "Maps",
+        "descripcion": "Plataforma para crear mapas interactivos y personalizados con una variedad de estilos y datos geoespaciales, adecuada para aplicaciones web que requieren mapas detallados y funcionales.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/mapbox",
         "tags": [
             "Maps"
@@ -514,7 +505,7 @@
     {
         "id": 47,
         "titulo": "Squoosh",
-        "descripcion": "Image optimizer",
+        "descripcion": "Herramienta en línea para optimizar imágenes, reduciendo su tamaño sin pérdida significativa de calidad, ideal para mejorar el rendimiento y la carga de tus sitios web.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703696273/freesets/tools/tix7qdzgrhabjjyyhqfd.webp",
         "tags": [
             "Image optimizer"
@@ -525,7 +516,7 @@
     {
         "id": 48,
         "titulo": "Shots",
-        "descripcion": "Mockups",
+        "descripcion": "Generador de mockups para previsualizar el diseño de tus aplicaciones y sitios web en dispositivos reales, facilitando la creación de presentaciones y demostraciones visuales.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703007575/freesets/tools/shots.so__mntgnr.webp",
         "tags": [
             "Mockups"
@@ -536,7 +527,7 @@
     {
         "id": 49,
         "titulo": "Layoutit Grid",
-        "descripcion": "Grid generator",
+        "descripcion": "Generador de rejillas (grids) en línea para diseñar y visualizar maquetas de sitios web con una estructura de cuadrícula ajustable y personalizable.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705765960/freesets/tools/zyht5hsanjj3u8x90urj.webp",
         "tags": [
             "Grid generator"
@@ -547,7 +538,7 @@
     {
         "id": 50,
         "titulo": "Monkeytype",
-        "descripcion": "Typing test",
+        "descripcion": "Herramienta para medir y mejorar tu velocidad de escritura, con pruebas de mecanografía que te permiten evaluar tu rendimiento y progreso.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706564906/freesets/tools/fvrsm72jltufe17ldcjr.webp",
         "tags": [
             "Typing test"
@@ -558,7 +549,7 @@
     {
         "id": 51,
         "titulo": "RapidAPI",
-        "descripcion": "API Collections",
+        "descripcion": "Plataforma que agrupa y facilita el acceso a diversas APIs, permitiendo explorar, probar e integrar servicios de APIs en tus aplicaciones de manera sencilla.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707611793/freesets/tools/boexcwzmhjfb7xzwwynl.webp",
         "tags": [
             "API Collections"
@@ -569,7 +560,7 @@
     {
         "id": 52,
         "titulo": "JS Benchmark",
-        "descripcion": "Benchmark",
+        "descripcion": "Herramienta para realizar pruebas de rendimiento en JavaScript, permitiendo comparar la velocidad de ejecución de diferentes fragmentos de código en distintos entornos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703007858/freesets/tools/jsbenchmark.com__s9tkth.webp",
         "tags": [
             "Benchmark"
@@ -580,7 +571,7 @@
     {
         "id": 53,
         "titulo": "Chalk.ist",
-        "descripcion": "Code screenshots",
+        "descripcion": "Generador de capturas de pantalla de código con un estilo visual atractivo, ideal para compartir fragmentos de código en redes sociales o documentación.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705069474/freesets/tools/to4nrd4wroizt5yyhwhi.webp",
         "tags": [
             "Code screenshots"
@@ -591,7 +582,7 @@
     {
         "id": 54,
         "titulo": "CodeImage",
-        "descripcion": "Code screenshots",
+        "descripcion": "Generador de imágenes de código que permite capturar y compartir fragmentos de código con un diseño visualmente atractivo y personalizable.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705069400/freesets/tools/ttljqybxfi5rp3yzmczy.webp",
         "tags": [
             "Code screenshots"
@@ -602,162 +593,199 @@
     {
         "id": 55,
         "titulo": "Excalidraw",
-        "descripcion": "Whiteboard",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703696414/freesets/tools/x8cznjuhqty30kj7aabe.webp",
-        "tags": ["Whiteboard"],
+        "descripcion": "Herramienta de pizarra digital para crear bocetos y diagramas de manera colaborativa, con una interfaz intuitiva y un estilo visual de dibujos a mano alzada.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705081402/freesets/tools/ka0vkkgy5m7jx34moflb.webp",
+        "tags": [
+            "Sketching"
+        ],
         "categoria": "Herramientas",
         "link": "https://excalidraw.com"
-      },
-      {
+    },
+    {
         "id": 56,
-        "titulo": "SVGOMG",
-        "descripcion": "SVG optimizer",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/svgomg",
-        "tags": ["SVG optimizer"],
+        "titulo": "Feather",
+        "descripcion": "Colección de íconos minimalistas y personalizables en formato SVG, ideales para diseñar interfaces limpias y modernas en tus proyectos web.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706000455/freesets/tools/feathericons.com__xog6ap.webp",
+        "tags": [
+            "Icons"
+        ],
         "categoria": "Herramientas",
-        "link": "https://svgomg.net/"
-      },
-      {
+        "link": "https://feathericons.com"
+    },
+    {
         "id": 57,
-        "titulo": "Tally",
-        "descripcion": "Forms",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703458941/freesets/tools/aur2ldiowy6y25j7mgmy.webp",
-        "tags": ["Forms"],
+        "titulo": "SQLizer",
+        "descripcion": "Herramienta para convertir archivos CSV, Excel y otros formatos de datos a SQL, facilitando la importación de datos a bases de datos relacionales.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706529696/freesets/tools/sqlizer.io__b9buq4.webp",
+        "tags": [
+            "Data conversion"
+        ],
         "categoria": "Herramientas",
-        "link": "https://tally.so"
-      },
-      {
+        "link": "https://sqlizer.io"
+    },
+    {
         "id": 58,
-        "titulo": "draw.io",
-        "descripcion": "Flowcharts",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/draw-io",
-        "tags": ["Flowcharts"],
+        "titulo": "Kalium",
+        "descripcion": "Generador de gráficos para visualizar datos de manera interactiva y atractiva, ideal para crear informes y presentaciones con representaciones visuales efectivas.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706691457/freesets/tools/kalium.dev__r1d3a4.webp",
+        "tags": [
+            "Data visualization"
+        ],
         "categoria": "Herramientas",
-        "link": "https://www.draw.io/"
+        "link": "https://kalium.dev"
     },
     {
         "id": 59,
-        "titulo": "ray.so",
-        "descripcion": "Code screenshots",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/rayso",
-        "tags": ["Code screenshots"],
+        "titulo": "Gantt Chart Maker",
+        "descripcion": "Herramienta para crear gráficos de Gantt en línea, permitiendo planificar y gestionar proyectos con visualizaciones claras de cronogramas y tareas.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706813148/freesets/tools/zzopntjpfdp4h8vgo9rl.webp",
+        "tags": [
+            "Project management"
+        ],
         "categoria": "Herramientas",
-        "link": "https://ray.so"
+        "link": "https://www.ganttchartmaker.com"
     },
     {
         "id": 60,
-        "titulo": "UptoSite",
-        "descripcion": "Link shortener",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/uptosite",
-        "tags": ["Link shortener"],
+        "titulo": "CSS Gradient",
+        "descripcion": "Generador de gradientes CSS en línea, facilitando la creación y personalización de fondos con gradientes atractivos para tus proyectos web.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706906338/freesets/tools/cssgradient.io__rlgczy.webp",
+        "tags": [
+            "CSS gradients"
+        ],
         "categoria": "Herramientas",
-        "link": "https://upto.site/"
+        "link": "https://cssgradient.io"
     },
     {
         "id": 61,
-        "titulo": "Component Party",
-        "descripcion": "Framework comparator",
-        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703460201/freesets/tools/plhgkf9he7pzz9mcs2ac.webp",
-        "tags": ["Framework comparator"],
+        "titulo": "EmojiCopy",
+        "descripcion": "Herramienta para copiar y utilizar emojis en tus proyectos y comunicaciones, con una interfaz sencilla para buscar y copiar emojis rápidamente.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706907648/freesets/tools/emojicopy.com__gejnm7.webp",
+        "tags": [
+            "Emojis"
+        ],
         "categoria": "Herramientas",
-        "link": "https://component-party.dev"
-      },
-      {
+        "link": "https://emojicopy.com"
+    },
+    {
         "id": 62,
         "titulo": "Freeter",
-        "descripcion": "Organizer",
+        "descripcion": "Aplicación para la organización y gestión de tareas, proyectos y tiempo. Freeter ayuda a mantener todo en orden con una interfaz intuitiva y funcionalidades para planificar y seguir el progreso de tus actividades.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/freeter",
-        "tags": ["Organizer"],
+        "tags": [
+            "Organizer"
+        ],
         "categoria": "Herramientas",
         "link": "https://freeter.io/"
-      },
-      {
+    },
+    {
         "id": 63,
         "titulo": "Responsively App",
-        "descripcion": "Responsive design, App",
+        "descripcion": "Herramienta para diseñar y probar interfaces web de manera responsiva. Permite visualizar cómo se adaptan los diseños a diferentes tamaños de pantalla y dispositivos en tiempo real.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/responsively",
-        "tags": ["Responsive design", "App"],
+        "tags": [
+            "Responsive design",
+            "App"
+        ],
         "categoria": "Herramientas",
         "link": "https://responsively.app/"
-      },
-      {
+    },
+    {
         "id": 64,
         "titulo": "readme.so",
-        "descripcion": "Readme generator",
+        "descripcion": "Generador en línea para crear archivos README.md con una estructura y formato atractivo. Ideal para documentar proyectos y proporcionar información clara y organizada a tus usuarios.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/readmeso",
-        "tags": ["Readme generator"],
+        "tags": [
+            "Readme generator"
+        ],
         "categoria": "Herramientas",
         "link": "https://readme.so/"
-      },
-      {
+    },
+    {
         "id": 65,
         "titulo": "React Skeleton",
-        "descripcion": "Skeleton loader",
+        "descripcion": "Biblioteca para implementar cargadores de esqueletos (skeleton loaders) en aplicaciones React, mejorando la experiencia del usuario durante la carga de contenido con efectos de carga visualmente atractivos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705506754/freesets/tools/t4yd2iphzvqihcgoj5gw.webp",
-        "tags": ["Skeleton loader"],
+        "tags": [
+            "Skeleton loader"
+        ],
         "categoria": "Herramientas",
         "link": "https://skeletonreact.com"
-      },
-      {
+    },
+    {
         "id": 66,
         "titulo": "Slidev",
-        "descripcion": "Code to slides",
+        "descripcion": "Herramienta para convertir presentaciones en código a diapositivas interactivas y visualmente atractivas. Facilita la creación y gestión de presentaciones con soporte para Markdown y una amplia gama de personalizaciones.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705069666/freesets/tools/kvaydsvk4smo54hq0fgd.webp",
-        "tags": ["Code to slides"],
+        "tags": [
+            "Code to slides"
+        ],
         "categoria": "Herramientas",
         "link": "https://sli.dev"
-      },
-      {
+    },
+    {
         "id": 67,
         "titulo": "Glyphy",
-        "descripcion": "Font generator",
+        "descripcion": "Generador de fuentes tipográficas personalizadas. Glyphy permite crear y modificar fuentes de manera fácil, proporcionando herramientas para diseñar caracteres y estilos según tus necesidades.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704379365/freesets/tools/diets4yvtwotg7yvi8do.webp",
-        "tags": ["Font generator"],
+        "tags": [
+            "Font generator"
+        ],
         "categoria": "Herramientas",
         "link": "https://glyphy.io"
-      },
-      {
+    },
+    {
         "id": 68,
         "titulo": "Microcopy",
-        "descripcion": "Microcopies",
+        "descripcion": "Plataforma para generar microcopias efectivas para tus interfaces de usuario. Microcopy proporciona ejemplos y sugerencias para mejorar el texto y la comunicación en tus productos digitales.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703554682/freesets/tools/kef9otwvixr44geier9v.webp",
-        "tags": ["Microcopies"],
+        "tags": [
+            "Microcopies"
+        ],
         "categoria": "Herramientas",
         "link": "https://www.microcopy.me"
-      },
-      {
+    },
+    {
         "id": 69,
         "titulo": "Transform tools",
-        "descripcion": "Transform data",
+        "descripcion": "Conjunto de herramientas en línea para transformar datos en varios formatos. Permite convertir y manipular datos con facilidad, facilitando la integración y procesamiento de información en tus proyectos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707069166/freesets/tools/hvxjb3ktzko8xztb1qcl.webp",
-        "tags": ["Transform data"],
+        "tags": [
+            "Transform data"
+        ],
         "categoria": "Herramientas",
         "link": "https://transform.tools/"
-      },
-      {
+    },
+    {
         "id": 70,
         "titulo": "eraser.io",
-        "descripcion": "Canvas",
+        "descripcion": "Herramienta en línea para crear y editar gráficos en un lienzo digital. Eraser.io proporciona una interfaz intuitiva para diseñar y modificar imágenes y gráficos con facilidad.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/eraser-io",
-        "tags": ["Canvas"],
+        "tags": [
+            "Canvas"
+        ],
         "categoria": "Herramientas",
         "link": "https://www.eraser.io/"
     },
     {
         "id": 71,
         "titulo": "Favicon Generator",
-        "descripcion": "Favicon generator",
+        "descripcion": "Generador de favicons en línea para crear iconos personalizados para tus sitios web. Permite generar favicons en múltiples formatos y tamaños, asegurando una visualización adecuada en diferentes dispositivos.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/favicon-generator",
-        "tags": ["Favicon generator"],
+        "tags": [
+            "Favicon generator"
+        ],
         "categoria": "Herramientas",
         "link": "https://www.favicon-generator.org/"
     },
     {
         "id": 72,
         "titulo": "Real Favicon Generator",
-        "descripcion": "Favicon generator",
+        "descripcion": "Herramienta para crear favicons y otros iconos web para tus aplicaciones y sitios. Ofrece opciones para generar favicons en todos los formatos necesarios y proporciona instrucciones para su integración.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/real-favicon",
-        "tags": ["Favicon generator"],
+        "tags": [
+            "Favicon generator"
+        ],
         "categoria": "Herramientas",
         "link": "https://realfavicongenerator.net/"
     }
