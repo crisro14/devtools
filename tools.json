@@ -4,8 +4,7 @@
         "titulo": "Iconify",
         "descripcion": "lala",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/iconify",
-        "tags": [
-        ],
+        "tags": [],
         "categoria": "Iconos",
         "link": "https://icon-sets.iconify.design/"
     },
@@ -14,8 +13,7 @@
         "titulo": "Google Icons",
         "descripcion": ".",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/google",
-        "tags": [
-        ],
+        "tags": [],
         "categoria": "Iconos",
         "link": "https://fonts.google.com/icons"
     },
@@ -35,8 +33,7 @@
         "titulo": "Tabler Icons",
         "descripcion": "Plataforma para alojamiento de código y control de versiones.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/tabler",
-        "tags": [
-        ],
+        "tags": [],
         "categoria": "Iconos",
         "link": "https://tabler.io/icons"
     },
@@ -45,8 +42,7 @@
         "titulo": "SVG Repo",
         "descripcion": "Herramienta para probar APIs.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/svgrepo",
-        "tags": [
-        ],
+        "tags": [],
         "categoria": "Iconos",
         "link": "https://www.svgrepo.com/"
     },
@@ -67,8 +63,7 @@
         "titulo": "Radix Icons",
         "descripcion": "Biblioteca JavaScript para crear gráficos 3D.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705772255/freesets/icons/mzzgjxfoem5kafvfyyhh.webp",
-        "tags": [
-        ],
+        "tags": [],
         "categoria": "Iconos",
         "link": "https://www.radix-ui.com/icons"
     },
@@ -77,33 +72,693 @@
         "titulo": "Iconoir",
         "descripcion": "Fotos de alta resolución gratuitas.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705777316/freesets/icons/ruzpsrpudbcvjvqtcv4j.webp",
-        "tags": [
-        ],
+        "tags": [],
         "categoria": "Iconos",
         "link": "https://iconoir.com/"
     },
     {
         "id": 9,
-        "titulo": "Dribbble",
-        "descripcion": "Inspiración y recursos para diseñadores.",
-        "foto": "https://cdn.dribbble.com/users/8439/screenshots/3069499/dribbble_screenshot.jpg",
+        "titulo": "Poly Haven",
+        "descripcion": "3d",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/polyhaven",
         "tags": [
-            "Diseño",
-            "Inspiración"
+            "HDRIs",
+            "Texturas",
+            "Models"
         ],
-        "categoria": "Inspiración",
-        "link": "https://dribbble.com/"
+        "categoria": "3d",
+        "link": "https://polyhaven.com/"
     },
     {
         "id": 10,
-        "titulo": "Color Hunt",
-        "descripcion": "Colección de paletas de colores.",
-        "foto": "https://colorhunt.co/static/colorhunt-logo.png",
+        "titulo": "Matter.js",
+        "descripcion": "Motor de física en 2D escrito en JavaScript.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703714061/freesets/libraries/umlx1hgt8bjycqzwpqqj.webp",
         "tags": [
-            "Colores",
-            "Diseño"
+            "Physics"
         ],
-        "categoria": "Colores",
-        "link": "https://colorhunt.co/"
+        "categoria": "Librerías",
+        "link": "https://brm.io/matter-js/"
+    },
+    {
+        "id": 11,
+        "titulo": "React Magic Motion",
+        "descripcion": "Librería de animaciones para React.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-magic-motion",
+        "tags": [],
+        "categoria": "Librerías",
+        "link": "https://www.react-magic-motion.com"
+    },
+    {
+        "id": 12,
+        "titulo": "Matter.js",
+        "descripcion": "Motor de física en 2D escrito en JavaScript.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703714061/freesets/libraries/umlx1hgt8bjycqzwpqqj.webp",
+        "tags": [
+            "Physics"
+        ],
+        "categoria": "Librerías",
+        "link": "https://brm.io/matter-js/"
+    },
+    {
+        "id": 13,
+        "titulo": "react-magic-motion",
+        "descripcion": "Biblioteca de animación para React.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-magic-motion",
+        "tags": [
+            "Animation",
+            "React"
+        ],
+        "categoria": "Librerías",
+        "link": "https://www.react-magic-motion.com"
+    },
+    {
+        "id": 14,
+        "titulo": "useHooks",
+        "descripcion": "Colección de custom hooks para React.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703461359/freesets/libraries/cnxclmmyt8gkenlzjhsw.webp",
+        "tags": [
+            "Hooks"
+        ],
+        "categoria": "Librerías",
+        "link": "https://usehooks.com"
+    },
+    {
+        "id": 15,
+        "titulo": "AutoAnimate",
+        "descripcion": "Pequeña biblioteca para animaciones automáticas en tu sitio web.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722122/freesets/libraries/x1cx4uqv29hd6ylowwcv.webp",
+        "tags": [
+            "Animations"
+        ],
+        "categoria": "Librerías",
+        "link": "https://auto-animate.formkit.com"
+    },
+    {
+        "id": 16,
+        "titulo": "Mousetrap",
+        "descripcion": "Librería de JavaScript para manejar atajos de teclado en el navegador.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707069869/freesets/libraries/b4uluaeygy8jpnk2flzs.webp",
+        "tags": [
+            "Keyboard shortcuts"
+        ],
+        "categoria": "Librerías",
+        "link": "https://craig.is/killing/mice"
+    },
+    {
+        "id": 17,
+        "titulo": "Luxon",
+        "descripcion": "Biblioteca de JavaScript para manejar fechas y horas.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703714373/freesets/libraries/zzq11qc4dh3byrn2g1o1.webp",
+        "tags": [
+            "Time",
+            "Dates"
+        ],
+        "categoria": "Librerías",
+        "link": "https://moment.github.io/luxon/"
+    },
+    {
+        "id": 18,
+        "titulo": "COBE",
+        "descripcion": "Librería para crear globos 3D en WebGL.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/cobe",
+        "tags": [
+            "WebGL globe"
+        ],
+        "categoria": "Librerías",
+        "link": "https://cobe.vercel.app/",
+        "licencia": "MIT",
+        "licencia_link": "https://github.com/shuding/cobe/blob/main/LICENSE"
+    },
+    {
+        "id": 19,
+        "titulo": "Driver.js",
+        "descripcion": "Librería para guiar el enfoque del usuario en una interfaz.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/driverjs",
+        "tags": [
+            "Drive user's focus"
+        ],
+        "categoria": "Librerías",
+        "link": "https://driverjs.com",
+        "licencia": "MIT",
+        "licencia_link": "https://github.com/kamranahmedse/driver.js/blob/master/license"
+    },
+    {
+        "id": 20,
+        "titulo": "PDFSlick",
+        "descripcion": "Librería para ver e interactuar con archivos PDF.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/pdfslick",
+        "tags": [
+            "View and Interact with PDFs"
+        ],
+        "categoria": "Librerías",
+        "link": "https://pdfslick.dev/",
+        "licencia": "MIT",
+        "licencia_link": "https://github.com/pdfslick/pdfslick/blob/main/LICENSE"
+    },
+    {
+        "id": 21,
+        "titulo": "Haiku",
+        "descripcion": "Librería de utilidades y hooks para React.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-haiku",
+        "tags": [
+            "React",
+            "Hooks",
+            "Utilities"
+        ],
+        "categoria": "Librerías",
+        "link": "https://www.reacthaiku.dev",
+        "licencia": "MIT",
+        "licencia_link": "https://github.com/DavidHDev/react-haiku/blob/main/LICENSE.md"
+    },
+    {
+        "id": 22,
+        "titulo": "GSAP",
+        "descripcion": "Librería para animaciones web.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722231/freesets/libraries/y0vnr0nzd18wdbsg1lkz.webp",
+        "tags": [
+            "Animations"
+        ],
+        "categoria": "Librerías",
+        "link": "https://gsap.com",
+        "licencia": "N/A"
+    },
+    {
+        "id": 23,
+        "titulo": "Swiper",
+        "descripcion": "Slider moderno y flexible para sitios web.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/swiperjs",
+        "tags": [
+            "Sliders"
+        ],
+        "categoria": "Librerías",
+        "link": "https://swiperjs.com/"
+    },
+    {
+        "id": 24,
+        "titulo": "tldraw SDK",
+        "descripcion": "SDK para crear un lienzo infinito en aplicaciones web.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tldraw",
+        "tags": [
+            "Infinite canvas"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://editorjs.io"
+    },
+    {
+        "id": 25,
+        "titulo": "react-spring",
+        "descripcion": "Biblioteca para animaciones en React.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722374/freesets/libraries/qp1ugsdvlw1umw7ozp7d.webp",
+        "tags": [
+            "Animations",
+            "React"
+        ],
+        "categoria": "Librerías",
+        "link": "https://www.react-spring.dev"
+    },
+    {
+        "id": 26,
+        "titulo": "Locomotive Scroll",
+        "descripcion": "Biblioteca para crear efectos de desplazamiento suave en el sitio web.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703460989/freesets/libraries/c624lahc77sg5fgo1eaq.webp",
+        "tags": [
+            "Scroll"
+        ],
+        "categoria": "Librerías",
+        "link": "https://locomotivemtl.github.io/locomotive-scroll/"
+    },
+    {
+        "id": 27,
+        "titulo": "Tempo",
+        "descripcion": "Herramienta para trabajar con fechas y tiempos.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tempo",
+        "tags": [
+            "Time",
+            "Dates"
+        ],
+        "categoria": "Librerías",
+        "link": "https://tempo.formkit.com"
+    },
+    {
+        "id": 28,
+        "titulo": "Vaul",
+        "descripcion": "Biblioteca para crear drawer en React.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703716210/freesets/libraries/xzlo82pgowtivmpjxdlk.webp",
+        "tags": [
+            "Drawer",
+            "React"
+        ],
+        "categoria": "Librerías",
+        "link": "https://vaul.emilkowal.ski"
+    },
+    {
+        "id": 29,
+        "titulo": "swup",
+        "descripcion": "Transitions for server-rendered pages",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/swup",
+        "tags": [
+            "Transitions for server-rendered pages"
+        ],
+        "categoria": "Librerías",
+        "link": "https://swup.js.org/"
+    },
+    {
+        "id": 30,
+        "titulo": "Atropos",
+        "descripcion": "Biblioteca para crear efectos de parallax.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703715783/freesets/libraries/fnn0q2erzzpqkyhrzckk.webp",
+        "tags": [
+            "Parallax"
+        ],
+        "categoria": "Librerías",
+        "link": "https://atroposjs.com"
+    },
+    {
+        "id": 31,
+        "titulo": "Tilt",
+        "descripcion": "Parallax",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tilt",
+        "tags": [
+            "Parallax"
+        ],
+        "categoria": "Librerías",
+        "link": "https://jdion.xyz/tilt"
+    },
+    {
+        "id": 32,
+        "titulo": "Sandpack",
+        "descripcion": "Live coding",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721779/freesets/libraries/pd8lyjpwf79zercchctr.webp",
+        "tags": [
+            "Live coding"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://sandpack.codesandbox.io"
+    },
+    {
+        "id": 33,
+        "titulo": "Framer Motion",
+        "descripcion": "Animations, React",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721531/freesets/libraries/mwfnikeq6pgt2y8xeeuu.webp",
+        "tags": [
+            "Animations",
+            "React"
+        ],
+        "categoria": "Librerías",
+        "link": "https://www.framer.com/motion/"
+    },
+    {
+        "id": 34,
+        "titulo": "Editor.js",
+        "descripcion": "Block-style editor",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/editorjs",
+        "tags": [
+            "Block-style editor"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://editorjs.io"
+    },
+    {
+        "id": 35,
+        "titulo": "RoughNotation",
+        "descripcion": "Annotations",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703716041/freesets/libraries/xywhclwf3zv29jtmppkf.webp",
+        "tags": [
+            "Annotations"
+        ],
+        "categoria": "Librerías",
+        "link": "https://roughnotation.com"
+    },
+    {
+        "id": 36,
+        "titulo": "lightGallery",
+        "descripcion": "Image gallery",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705093204/freesets/libraries/gbvshhwql1vuevniicae.webp",
+        "tags": [
+            "Image gallery"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://www.lightgalleryjs.com"
+    },
+    {
+        "id": 37,
+        "titulo": "PhotoSwipe",
+        "descripcion": "Image gallery",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705093099/freesets/libraries/p4tly9q7bbbnseutl1al.webp",
+        "tags": [
+            "Image gallery"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://photoswipe.com"
+    },
+    {
+        "id": 38,
+        "titulo": "Plyr",
+        "descripcion": "Media player",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722052/freesets/libraries/vnzjqkvjkko8oynzkvoa.webp",
+        "tags": [
+            "Media player"
+        ],
+        "categoria": "Librerías",
+        "link": "https://plyr.io"
+    },
+    {
+        "id": 39,
+        "titulo": "React Google Maps",
+        "descripcion": "Maps",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-google-maps",
+        "tags": [
+            "Maps"
+        ],
+        "categoria": "Librerías",
+        "link": "https://visgl.github.io/react-google-maps/"
+    },
+    {
+        "id": 40,
+        "titulo": "FilePond",
+        "descripcion": "Uploads",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703715871/freesets/libraries/eadtlmvs1fn45whzka3p.webp",
+        "tags": [
+            "Uploads"
+        ],
+        "categoria": "Librerías",
+        "link": "https://pqina.nl/filepond/"
+    },
+    {
+        "id": 41,
+        "titulo": "React Google Maps",
+        "descripcion": "Maps",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-google-maps",
+        "tags": [
+            "Maps"
+        ],
+        "categoria": "Librerías",
+        "link": "https://visgl.github.io/react-google-maps/"
+    },
+    {
+        "id": 42,
+        "titulo": "FilePond",
+        "descripcion": "Uploads",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703715871/freesets/libraries/eadtlmvs1fn45whzka3p.webp",
+        "tags": [
+            "Uploads"
+        ],
+        "categoria": "Librerías",
+        "link": "https://pqina.nl/filepond/"
+    },
+    {
+        "id": 43,
+        "titulo": "Draggable JS",
+        "descripcion": "Drag and drop",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/draggable",
+        "tags": [
+            "Drag and drop"
+        ],
+        "categoria": "Librerías",
+        "link": "https://shopify.github.io/draggable/"
+    },
+    {
+        "id": 44,
+        "titulo": "yup",
+        "descripcion": "Form validation",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721354/freesets/libraries/vf3bljcv8cw7nklk3s1o.webp",
+        "tags": [
+            "Form validation"
+        ],
+        "categoria": "Librerías",
+        "link": "https://github.com/jquense/yup"
+    },
+    {
+        "id": 45,
+        "titulo": "ipad-cursor",
+        "descripcion": "iPad's mouse effect",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/cursoroooo",
+        "tags": [
+            "iPad's mouse effect"
+        ],
+        "categoria": "Efectos",
+        "link": "https://cursor.oooo.so/"
+    },
+    {
+        "id": 46,
+        "titulo": "Mapbox",
+        "descripcion": "Maps",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/mapbox",
+        "tags": [
+            "Maps"
+        ],
+        "categoria": "Mapas",
+        "link": "https://www.mapbox.com/"
+    },
+    {
+        "id": 47,
+        "titulo": "Squoosh",
+        "descripcion": "Image optimizer",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703696273/freesets/tools/tix7qdzgrhabjjyyhqfd.webp",
+        "tags": [
+            "Image optimizer"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://squoosh.app"
+    },
+    {
+        "id": 48,
+        "titulo": "Shots",
+        "descripcion": "Mockups",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703007575/freesets/tools/shots.so__mntgnr.webp",
+        "tags": [
+            "Mockups"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://shots.so"
+    },
+    {
+        "id": 49,
+        "titulo": "Layoutit Grid",
+        "descripcion": "Grid generator",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705765960/freesets/tools/zyht5hsanjj3u8x90urj.webp",
+        "tags": [
+            "Grid generator"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://grid.layoutit.com"
+    },
+    {
+        "id": 50,
+        "titulo": "Monkeytype",
+        "descripcion": "Typing test",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706564906/freesets/tools/fvrsm72jltufe17ldcjr.webp",
+        "tags": [
+            "Typing test"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://monkeytype.com"
+    },
+    {
+        "id": 51,
+        "titulo": "RapidAPI",
+        "descripcion": "API Collections",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707611793/freesets/tools/boexcwzmhjfb7xzwwynl.webp",
+        "tags": [
+            "API Collections"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://rapidapi.com/collections"
+    },
+    {
+        "id": 52,
+        "titulo": "JS Benchmark",
+        "descripcion": "Benchmark",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703007858/freesets/tools/jsbenchmark.com__s9tkth.webp",
+        "tags": [
+            "Benchmark"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://jsbenchmark.com"
+    },
+    {
+        "id": 53,
+        "titulo": "Chalk.ist",
+        "descripcion": "Code screenshots",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705069474/freesets/tools/to4nrd4wroizt5yyhwhi.webp",
+        "tags": [
+            "Code screenshots"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://chalk.ist"
+    },
+    {
+        "id": 54,
+        "titulo": "CodeImage",
+        "descripcion": "Code screenshots",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705069400/freesets/tools/ttljqybxfi5rp3yzmczy.webp",
+        "tags": [
+            "Code screenshots"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://app.codeimage.dev"
+    },
+    {
+        "id": 55,
+        "titulo": "Excalidraw",
+        "descripcion": "Whiteboard",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703696414/freesets/tools/x8cznjuhqty30kj7aabe.webp",
+        "tags": ["Whiteboard"],
+        "categoria": "Herramientas",
+        "link": "https://excalidraw.com"
+      },
+      {
+        "id": 56,
+        "titulo": "SVGOMG",
+        "descripcion": "SVG optimizer",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/svgomg",
+        "tags": ["SVG optimizer"],
+        "categoria": "Herramientas",
+        "link": "https://svgomg.net/"
+      },
+      {
+        "id": 57,
+        "titulo": "Tally",
+        "descripcion": "Forms",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703458941/freesets/tools/aur2ldiowy6y25j7mgmy.webp",
+        "tags": ["Forms"],
+        "categoria": "Herramientas",
+        "link": "https://tally.so"
+      },
+      {
+        "id": 58,
+        "titulo": "draw.io",
+        "descripcion": "Flowcharts",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/draw-io",
+        "tags": ["Flowcharts"],
+        "categoria": "Diagrams",
+        "link": "https://www.draw.io/"
+    },
+    {
+        "id": 59,
+        "titulo": "ray.so",
+        "descripcion": "Code screenshots",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/rayso",
+        "tags": ["Code screenshots"],
+        "categoria": "Design",
+        "link": "https://ray.so"
+    },
+    {
+        "id": 60,
+        "titulo": "UptoSite",
+        "descripcion": "Link shortener",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/uptosite",
+        "tags": ["Link shortener"],
+        "categoria": "Utilities",
+        "link": "https://upto.site/"
+    },
+    {
+        "id": 61,
+        "titulo": "Component Party",
+        "descripcion": "Framework comparator",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703460201/freesets/tools/plhgkf9he7pzz9mcs2ac.webp",
+        "tags": ["Framework comparator"],
+        "categoria": "Herramientas",
+        "link": "https://component-party.dev"
+      },
+      {
+        "id": 62,
+        "titulo": "Freeter",
+        "descripcion": "Organizer",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/freeter",
+        "tags": ["Organizer"],
+        "categoria": "Herramientas",
+        "link": "https://freeter.io/"
+      },
+      {
+        "id": 63,
+        "titulo": "Responsively App",
+        "descripcion": "Responsive design, App",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/responsively",
+        "tags": ["Responsive design", "App"],
+        "categoria": "Herramientas",
+        "link": "https://responsively.app/"
+      },
+      {
+        "id": 64,
+        "titulo": "readme.so",
+        "descripcion": "Readme generator",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/readmeso",
+        "tags": ["Readme generator"],
+        "categoria": "Herramientas",
+        "link": "https://readme.so/"
+      },
+      {
+        "id": 65,
+        "titulo": "React Skeleton",
+        "descripcion": "Skeleton loader",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705506754/freesets/tools/t4yd2iphzvqihcgoj5gw.webp",
+        "tags": ["Skeleton loader"],
+        "categoria": "Herramientas",
+        "link": "https://skeletonreact.com"
+      },
+      {
+        "id": 66,
+        "titulo": "Slidev",
+        "descripcion": "Code to slides",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705069666/freesets/tools/kvaydsvk4smo54hq0fgd.webp",
+        "tags": ["Code to slides"],
+        "categoria": "Herramientas",
+        "link": "https://sli.dev"
+      },
+      {
+        "id": 67,
+        "titulo": "Glyphy",
+        "descripcion": "Font generator",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704379365/freesets/tools/diets4yvtwotg7yvi8do.webp",
+        "tags": ["Font generator"],
+        "categoria": "Herramientas",
+        "link": "https://glyphy.io"
+      },
+      {
+        "id": 68,
+        "titulo": "Microcopy",
+        "descripcion": "Microcopies",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703554682/freesets/tools/kef9otwvixr44geier9v.webp",
+        "tags": ["Microcopies"],
+        "categoria": "Herramientas",
+        "link": "https://www.microcopy.me"
+      },
+      {
+        "id": 69,
+        "titulo": "Transform tools",
+        "descripcion": "Transform data",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707069166/freesets/tools/hvxjb3ktzko8xztb1qcl.webp",
+        "tags": ["Transform data"],
+        "categoria": "Herramientas",
+        "link": "https://transform.tools/"
+      },
+      {
+        "id": 70,
+        "titulo": "eraser.io",
+        "descripcion": "Canvas",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/eraser-io",
+        "tags": ["Canvas"],
+        "categoria": "Herramientas",
+        "link": "https://www.eraser.io/"
+    },
+    {
+        "id": 71,
+        "titulo": "Favicon Generator",
+        "descripcion": "Favicon generator",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/favicon-generator",
+        "tags": ["Favicon generator"],
+        "categoria": "Herramientas",
+        "link": "https://www.favicon-generator.org/"
+    },
+    {
+        "id": 72,
+        "titulo": "Real Favicon Generator",
+        "descripcion": "Favicon generator",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/real-favicon",
+        "tags": ["Favicon generator"],
+        "categoria": "Herramientas",
+        "link": "https://realfavicongenerator.net/"
     }
 ]
