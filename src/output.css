@@ -903,16 +903,16 @@ html {
   gap: 0.5rem;
   font-size: 1.55rem;
   line-height: 1.75rem;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .card-text {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  font-size: 0.90rem;
+
+  font-size: 0.80rem;
   line-height: 1.75rem;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .card.image-full :where(figure) {

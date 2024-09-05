@@ -788,5 +788,16 @@
         ],
         "categoria": "Herramientas",
         "link": "https://realfavicongenerator.net/"
+    },
+    {
+        "id": 73,
+        "titulo": "draw.io",
+        "descripcion": "Herramienta para crear favicons y otros iconos web para tus aplicaciones y sitios. Ofrece opciones para generar favicons en todos los formatos necesarios y proporciona instrucciones para su integración.",
+        "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/draw-io",
+        "tags": [
+            "Flowcharts"
+        ],
+        "categoria": "Herramientas",
+        "link": "https://app.diagrams.net/"
     }
 ]
