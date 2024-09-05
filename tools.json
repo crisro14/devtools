@@ -97,7 +97,7 @@
         "tags": [
             "Physics"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://brm.io/matter-js/"
     },
     {
@@ -106,7 +106,7 @@
         "descripcion": "Librería de animaciones para React.",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-magic-motion",
         "tags": [],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://www.react-magic-motion.com"
     },
     {
@@ -117,7 +117,7 @@
         "tags": [
             "Physics"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://brm.io/matter-js/"
     },
     {
@@ -129,7 +129,7 @@
             "Animation",
             "React"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://www.react-magic-motion.com"
     },
     {
@@ -140,7 +140,7 @@
         "tags": [
             "Hooks"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://usehooks.com"
     },
     {
@@ -151,7 +151,7 @@
         "tags": [
             "Animations"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://auto-animate.formkit.com"
     },
     {
@@ -162,7 +162,7 @@
         "tags": [
             "Keyboard shortcuts"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://craig.is/killing/mice"
     },
     {
@@ -174,7 +174,7 @@
             "Time",
             "Dates"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://moment.github.io/luxon/"
     },
     {
@@ -185,7 +185,7 @@
         "tags": [
             "WebGL globe"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://cobe.vercel.app/",
         "licencia": "MIT",
         "licencia_link": "https://github.com/shuding/cobe/blob/main/LICENSE"
@@ -198,7 +198,7 @@
         "tags": [
             "Drive user's focus"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://driverjs.com",
         "licencia": "MIT",
         "licencia_link": "https://github.com/kamranahmedse/driver.js/blob/master/license"
@@ -211,7 +211,7 @@
         "tags": [
             "View and Interact with PDFs"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://pdfslick.dev/",
         "licencia": "MIT",
         "licencia_link": "https://github.com/pdfslick/pdfslick/blob/main/LICENSE"
@@ -226,7 +226,7 @@
             "Hooks",
             "Utilities"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://www.reacthaiku.dev",
         "licencia": "MIT",
         "licencia_link": "https://github.com/DavidHDev/react-haiku/blob/main/LICENSE.md"
@@ -239,7 +239,7 @@
         "tags": [
             "Animations"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://gsap.com",
         "licencia": "N/A"
     },
@@ -251,7 +251,7 @@
         "tags": [
             "Sliders"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://swiperjs.com/"
     },
     {
@@ -274,7 +274,7 @@
             "Animations",
             "React"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://www.react-spring.dev"
     },
     {
@@ -285,7 +285,7 @@
         "tags": [
             "Scroll"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://locomotivemtl.github.io/locomotive-scroll/"
     },
     {
@@ -297,7 +297,7 @@
             "Time",
             "Dates"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://tempo.formkit.com"
     },
     {
@@ -309,7 +309,7 @@
             "Drawer",
             "React"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://vaul.emilkowal.ski"
     },
     {
@@ -320,7 +320,7 @@
         "tags": [
             "Transitions for server-rendered pages"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://swup.js.org/"
     },
     {
@@ -331,7 +331,7 @@
         "tags": [
             "Parallax"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://atroposjs.com"
     },
     {
@@ -342,7 +342,7 @@
         "tags": [
             "Parallax"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://jdion.xyz/tilt"
     },
     {
@@ -365,7 +365,7 @@
             "Animations",
             "React"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://www.framer.com/motion/"
     },
     {
@@ -387,7 +387,7 @@
         "tags": [
             "Annotations"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://roughnotation.com"
     },
     {
@@ -420,7 +420,7 @@
         "tags": [
             "Media player"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://plyr.io"
     },
     {
@@ -431,7 +431,7 @@
         "tags": [
             "Maps"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://visgl.github.io/react-google-maps/"
     },
     {
@@ -442,7 +442,7 @@
         "tags": [
             "Uploads"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://pqina.nl/filepond/"
     },
     {
@@ -453,7 +453,7 @@
         "tags": [
             "Maps"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://visgl.github.io/react-google-maps/"
     },
     {
@@ -464,7 +464,7 @@
         "tags": [
             "Uploads"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://pqina.nl/filepond/"
     },
     {
@@ -475,7 +475,7 @@
         "tags": [
             "Drag and drop"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://shopify.github.io/draggable/"
     },
     {
@@ -486,7 +486,7 @@
         "tags": [
             "Form validation"
         ],
-        "categoria": "Librerías",
+        "categoria": "Librerias",
         "link": "https://github.com/jquense/yup"
     },
     {
@@ -497,7 +497,7 @@
         "tags": [
             "iPad's mouse effect"
         ],
-        "categoria": "Efectos",
+        "categoria":"Herramientas",
         "link": "https://cursor.oooo.so/"
     },
     {
@@ -508,7 +508,7 @@
         "tags": [
             "Maps"
         ],
-        "categoria": "Mapas",
+        "categoria": "Herramientas",
         "link": "https://www.mapbox.com/"
     },
     {
@@ -632,7 +632,7 @@
         "descripcion": "Flowcharts",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/draw-io",
         "tags": ["Flowcharts"],
-        "categoria": "Diagrams",
+        "categoria": "Herramientas",
         "link": "https://www.draw.io/"
     },
     {
@@ -641,7 +641,7 @@
         "descripcion": "Code screenshots",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/rayso",
         "tags": ["Code screenshots"],
-        "categoria": "Design",
+        "categoria": "Herramientas",
         "link": "https://ray.so"
     },
     {
@@ -650,7 +650,7 @@
         "descripcion": "Link shortener",
         "foto": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/uptosite",
         "tags": ["Link shortener"],
-        "categoria": "Utilities",
+        "categoria": "Herramientas",
         "link": "https://upto.site/"
     },
     {
